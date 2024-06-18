@@ -1,0 +1,19 @@
+{
+    "name": "Hazel NFT",
+    "description": "An exclusive digital artwork created by Hazel",
+    "image": "https://my-json-server.typicode.com/Hazel/My-NFT/image/1.jpg",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Sunset"
+        },
+        {
+            "trait_type": "Color",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Size",
+            "value": "Large"
+        }
+    ]
+}
