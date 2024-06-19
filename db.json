@@ -28,7 +28,7 @@
   "profile": {
     "name": "Hazel NFT",
     "description": "An exclusive digital artwork created by Hazel",
-    "image": "https://my-json-server.typicode.com/Hazel/My-NFT/image/1.jpg",
+    "image": "https://avatars.githubusercontent.com/u/13810500?v=4",
     "attributes": [
         {
             "trait_type": "Background",
